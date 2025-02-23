@@ -3,7 +3,7 @@
 Nama  : Fauzia Nurafni
 NIM   : 2230511059
 
-Link Demo Project : https://drive.google.com/drive/u/0/my-drive
+Link Demo Project : https://drive.google.com/file/d/1ffWrJGOJGQdaDWVjk2smnAcdPpEtquBs/view?usp=drive_link
 
 Berikut adalah langkah-langkah dalam mengerjakan project Firebase Firestore menggunakan Flutter:
 1.	Buat project di Firebase Console. Masuk ke Firebase Console, buat project baru, dan tambahkan aplikasi Flutter ke dalamnya.
